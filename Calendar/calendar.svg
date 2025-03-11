@@ -1,0 +1,120 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <style>
+        @font-face {
+            font-family: 'MiTN';
+            font-style: normal;
+            font-weight: 400;
+            src: url('fonts/MiTN.ttf') format('truetype');
+        }
+        @font-face {
+            font-family: 'MiTN';
+            font-style: thin;
+            font-weight: 400;
+            src: url('fonts/MiTN.ttf') format('truetype');
+        }
+        @font-face {
+            font-family: 'MiTN';
+            font-style: bold;
+            font-weight: 400;
+            src: url('fonts/MiTN.ttf') format('truetype');
+        }
+        @font-face {
+            font-family: 'MiTN';
+            font-style: special;
+            font-weight: 400;
+            src: url('fonts/MiTN.ttf') format('truetype');
+        }
+        @font-face {
+            font-family: 'KAWAIITEGAKIMOJI';
+            font-style: normal;
+            font-weight: 400;
+            src: url('fonts/KTEGAKI.ttf') format('truetype');
+        }
+
+        * {
+            font-family: "MiTN", "KAWAIITEGAKIMOJI", "Noto Color Emoji";
+        }
+
+        table {
+            width: 700px !important;
+            height: 640px !important;
+            border-collapse: collapse;
+            table-layout: fixed;
+            outline: 2px solid black;
+            outline-offset: -1.5px;
+        }
+        th {
+            width: 100px !important;
+            height: 40px !important;
+            padding: 0px;
+            text-align: center;
+            background-color: black;
+            color: white;
+            font-size: 20px;
+            font-weight: bold;
+        }
+        td {
+            width: 100px !important;
+            height: 100px !important;
+            padding: 0px;
+            position: relative;
+            outline: 0.5px solid black;
+            outline-offset: -1px;
+        }
+        div {
+            width: 84px;
+            height: 84px;
+            padding: 8px;
+            font-size: 14px;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+        span {
+            position: absolute;
+            top: 0px;
+            right: 0px;
+            width: 20px;
+            height: 20px;
+            font-size: 12px;
+            font-weight: bold;
+            text-align: center;
+            line-height: 20px;
+        }
+
+        p {
+            margin: 0px;
+        }
+
+        img {
+            margin: 20px;
+        }
+    </style>
+    <defs>
+        <filter id="text-shadow" x="-50%" y="-50%" width="200%" height="200%">
+            <feDropShadow dx="4" dy="4" stdDeviation="3" flood-color="rgba(0,0,0,0.5)" />
+        </filter>
+    </defs>
+    <image href="{{art}}" x="0" y="0" width="864" height="1080" preserveAspectRatio="xMidYMid slice"/>
+    <image href="images/scene.png" x="0" y="0" width="1920" height="1080" />
+    <image href="images/paw.png" x="0" y="0" width="1920" height="1080" />
+    <text x="1160" y="112" font-size="80" font-weight="bold" fill="black" stroke="white" stroke-width="1" filter="url(#text-shadow)">
+        {{title}}
+    </text>
+    <foreignObject x="1000" y="200" width="700" height="640">
+        <xhtml:table>
+            <xhtml:tr>
+                <xhtml:th>月</xhtml:th>
+                <xhtml:th>火</xhtml:th>
+                <xhtml:th>水</xhtml:th>
+                <xhtml:th>木</xhtml:th>
+                <xhtml:th>金</xhtml:th>
+                <xhtml:th>土</xhtml:th>
+                <xhtml:th>日</xhtml:th>
+            </xhtml:tr>
+            {{body}}
+        </xhtml:table>
+    </foreignObject>
+</svg>
