@@ -142,8 +142,8 @@ const express = require("express");
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-app.use('/images', express.static(path.join(process.cwd(), 'public', 'images')));
-app.use('/fonts', express.static(path.join(process.cwd(), 'public', 'fonts')));
+app.use('/images', express.static(path.join(__dirname, 'public', 'images')));
+app.use('/fonts', express.static(path.join(__dirname, 'public', 'fonts')));
 
 app.get("/", async (req, res) => {
     const svg = await makeSchedule();
