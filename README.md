@@ -15,7 +15,7 @@
 [![TypeScript](https://e-meishi.vercel.app/badge?message=TypeScript&style=flat&labelColor=000000&color=%23000000&img=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Ftypescript%2Ftypescript-original.svg)](https://github.com/MeowSky49887)
 [![Lua](https://e-meishi.vercel.app/badge?message=Lua&style=flat&labelColor=000000&color=%23000000&img=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Flua%2Flua-original.svg)](https://github.com/MeowSky49887)
 [![C](https://e-meishi.vercel.app/badge?message=C&style=flat&labelColor=000000&color=%23000000&img=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Fc%2Fc-original.svg)](https://github.com/MeowSky49887)
-[![C++](https://e-meishi.vercel.app/badge?message=C%2B%2B&style=flat&labelColor=000000&color=%23000000&img=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Fc%2Fc-original.svg)](https://github.com/MeowSky49887)
+[![C++](https://e-meishi.vercel.app/badge?message=C%2B%2B&style=flat&labelColor=000000&color=%23000000&img=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Fc%2Fcplusplus-original.svg)](https://github.com/MeowSky49887)
 [![C#](https://e-meishi.vercel.app/badge?message=C%23&style=flat&labelColor=000000&color=%23000000&img=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Fcsharp%2Fcsharp-original.svg)](https://github.com/MeowSky49887)
 
 ## My Projects
