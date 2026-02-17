@@ -1,5 +1,5 @@
 # สวัสดีค่ะ! หนูชื่อ **MeowSkyKung** ᓚ₍≽^•⩊•^≼₎
-- แนะนำตัวค่า! เราชื่อ **"สกาย"** อายุ 16 ปี เป็นทรานส์เจนเดอร์ และเป็นแมว! 🏳️‍⚧️🐱  
+- แนะนำตัวค่า! เราชื่อ **"สกาย"** อายุ 17 ปี เป็นทรานส์เจนเดอร์ และเป็นแมว! 🏳️‍⚧️🐱  
 - 💖 มีหลายบทบาทในชีวิต และรักทุกสิ่งที่ทำ! 💫✨  
 - 💻 **Developer** | 🎤 **VTuber** | 👘 **Cosplayer** | 📖 **นักเขียน** | 🍰 **เจ้าของร้านขนม**  
 - มัธยมต้นเรียนที่ **สามเสนวิทยาลัย** จบด้วยเอก **คอมพิวเตอร์ 💻 & ภาษาญี่ปุ่น 🇯🇵**  
@@ -19,10 +19,8 @@
 [![C#](https://e-meishi.vercel.app/badge?message=C%23&style=flat&labelColor=000000&color=%23000000&img=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%40latest%2Ficons%2Fcsharp%2Fcsharp-original.svg)](https://github.com/MeowSky49887)
 
 ## My Projects
-[![E-Meishi](https://e-meishi.vercel.app/repo?owner=meowsky49887&name=E-Meishi)](https://github.com/MeowSky49887/E-Meishi)
-[![MystWin](https://e-meishi.vercel.app/repo?owner=meowsky49887&name=MystWin)](https://github.com/MeowSky49887/MystWin)
-[![Icon-Extractor](https://e-meishi.vercel.app/repo?owner=meowsky49887&name=Icon-Extractor)](https://github.com/MeowSky49887/Icon-Extractor)
 [![ExpressPHP](https://e-meishi.vercel.app/repo?owner=meowsky49887&name=Express-PHP)](https://github.com/MeowSky49887/Express-PHP)
+[![PythonJS](https://e-meishi.vercel.app/repo?owner=meowsky49887&name=PythonJS)](https://github.com/MeowSky49887/PythonJS)
 
 
 <!---
